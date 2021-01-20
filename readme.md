@@ -126,3 +126,5 @@ Specifying type attributes in these contexts is not necessary as HTML5 implies `
 <!-- Recommended -->
 <script src="https://www.google.com/js/gweb/analytics/autotrack.js"></script>
 ``` 
+
+Reference [Google](https://google.github.io/styleguide/htmlcssguide.html)
